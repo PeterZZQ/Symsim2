@@ -1,6 +1,6 @@
 # SymSim-extended
 
-Extension of `Symsim` on generating the simulated scATAC-Seq data along with scRNA-Seq data. Only applicable to continuous cell population, i.e. developmental trajectories. The simulation tool used in [scDART](https://github.com/PeterZZQ/scDART)
+Extension of `Symsim` on generating the simulated scATAC-Seq data along with scRNA-Seq data. Only applicable to continuous cell population, i.e. developmental trajectories. The simulation tool is used in [scDART](https://github.com/PeterZZQ/scDART).
 
 
 
